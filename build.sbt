@@ -2,7 +2,7 @@ name := "CourseraCodeSamplesReactiveProgramming"
 
 version := "1.0"
 
-scalaVersion := "2.11.6"
+scalaVersion := "2.11.12"
 
 scalacOptions ++= Seq("-deprecation", "-feature")
 
